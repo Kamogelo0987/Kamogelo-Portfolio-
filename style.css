@@ -31,12 +31,12 @@ nav{
 
     padding:20px 8%;
 
-    background:#0f172a;
+    background:#grey;
     box-shadow:0 5px 15px rgba(0,0,0,.15);
 }
 
 nav h2{
-    color:grey;
+    color:white;
     font-size:30px;
     font-weight:700;
 }
@@ -54,7 +54,7 @@ nav a{
 }
 
 nav a:hover{
-    color:#38bdf8;
+    color:#grey;
 }
 
 /* ===========================
@@ -73,7 +73,7 @@ nav a:hover{
 
     background:linear-gradient(135deg,#0f172a,#1e3a8a);
 
-    color:grey;
+    color:white;
 }
 
 .hero-text{
@@ -119,7 +119,7 @@ nav a:hover{
     display:inline-block;
     padding:15px 32px;
 
-    background:grey;
+    background:orange;
 
     color:white;
     text-decoration:none;
@@ -132,7 +132,7 @@ nav a:hover{
 }
 
 .btn:hover{
-    background:#0284c7;
+    background:#grey;
     transform:translateY(-3px);
 }
 
@@ -198,7 +198,7 @@ nav a:hover{
 =========================== */
 
 footer{
-    background:#0f172a;
+    background:#grey;
     color:white;
     text-align:center;
     padding:40px 20px;
